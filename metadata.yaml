@@ -1,0 +1,26 @@
+_repo: Practice-Book-Leland-Powers-School_10491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powers, Leland Todd
+    alias: Powers, Leland T. (Leland Todd)
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3557'
+    url: http://www.gutenberg.org/2009/agents/3557
+    wikipedia: http://en.wikipedia.org/wiki/Leland_T._Powers
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Recitations'
+- GITenberg
+title: Practice Book, Leland Powers School
+url: http://www.gutenberg.org/ebooks/10491
